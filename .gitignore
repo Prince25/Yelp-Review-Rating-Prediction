@@ -10,6 +10,7 @@ Thumbs.db
 
 # data and pycache
 data/*
+!data/sample_data.txt
 __pycache__/*
 submission_samples/desktop.ini
 submissions/desktop.ini

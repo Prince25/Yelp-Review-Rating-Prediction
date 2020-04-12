@@ -14,8 +14,11 @@ Optional:
 
 ~~ How to run ~~
 
-After extracting the directory, fill the /data file with the 5 data files given to us from kaggle.
-These files are: business.csv, test_queries.csv, train_reviews.csv, users.csv, and validate_queries.csv
+After extracting the directory, fill the /data file with the 5 data files provided by Yelp.
+We used sample data files given to us from our Kaggle challenge, but feel free to use your own.  
+These files are: business.csv, test_queries.csv, train_reviews.csv, users.csv, and validate_queries.csv.
+Even though these files contain only a fraction of the data provided by Yelp, they're too large to push to Github.
+Sample files can be downloaded from here: https://drive.google.com/drive/folders/1pJMsi2CMB5rFd-33vlc4LeCYEMvoEkYQ?usp=sharing
 Then in the main directory run: (assuming default python3)
 	python preprocess.py 
 		This will take a few minutes based on how fast your computer is, and outputs new files in the
