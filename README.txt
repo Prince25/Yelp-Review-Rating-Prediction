@@ -1,5 +1,5 @@
 ~~ The Grand Truthers - 145 FINAL PROJECT ~~
-
+Our project report can be read here: https://drive.google.com/file/d/16muzZQYOy2jmDhzRh7cFc0Jw7T1Ab5l4/view?usp=sharing 
 Team Members: Omid Eghbali, Garvit Pugalia, Kanisha Shah, Hengda Shi, Prabhjot Singh
 
 
